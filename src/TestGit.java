@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class TestGit {
+    public static void main(){
+
+    }
 }
