@@ -1,3 +1,4 @@
+
 <%--
   Created by IntelliJ IDEA.
   User: Administrator
@@ -11,6 +12,18 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <table>
+
+    <tr>
+      <td>用户名:</td>
+      <td>密码:</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+  </table>
   </body>
 </html>
